@@ -15,4 +15,4 @@ Segundo semetre Clase02 Base de Datos 20/08/2024
 
 Seguimos aprendiendo nuevos comandos:
 
-Como podemos ver, borramos los commits
+
